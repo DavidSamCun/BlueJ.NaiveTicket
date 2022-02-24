@@ -19,7 +19,7 @@ public class TicketMachine
     private Integer total;
     // The number of tickets printed.
     private Integer ticketNumber;
-
+    // Text test
     /**
      * Create a machine that issues tickets of the given price.
      * Note that the price must be greater than zero, and there
